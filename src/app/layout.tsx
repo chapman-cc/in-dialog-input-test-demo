@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import "@dfds-frontend/compass-ui/styles";
 import "./globals.css";
 
 const geistSans = localFont({
